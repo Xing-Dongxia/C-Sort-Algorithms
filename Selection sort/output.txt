@@ -1,0 +1,5 @@
+Give a list of numbers :
+The given list of number is :
+23 34 2 12 5 49 32 344 3 12 -1 38 96 31 2 1 45 0 5 -10 8 -233 
+The sorted list of number is :
+-233 -10 -1 0 1 2 2 3 5 5 8 12 12 23 31 32 34 38 45 49 96 344 
