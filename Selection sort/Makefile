@@ -5,3 +5,6 @@ selectionSort: sort.cpp
 
 clean:
 	erase *.exe
+
+run:
+	sortapp.exe <input.txt >output.txt
