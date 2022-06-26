@@ -1,5 +1,7 @@
-#include "bubble.h"
+#include "insertion.h"
 #include <iostream>
+
+using namespace std;
 
 int main(){
 	vector<int> myVector;
@@ -14,8 +16,8 @@ int main(){
 	}
 	cout << endl;
 
-	bubbleSort container;
-	container.sortFunc3(myVector);
+	insertionSort opt;
+	opt.sortFunc1(myVector);
 
 	cout << "The sorted list of number is :" << endl;
 	for (auto num : myVector){

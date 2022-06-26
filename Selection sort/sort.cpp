@@ -25,6 +25,5 @@ int main(){
 	}
 	cout << endl;
 
-	getchar();
 	return 0;
 }
